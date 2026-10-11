@@ -1,6 +1,6 @@
 # Project_SG_I-Smile_Group6_2026
 <p align="left">
-<img src="https://media.tenor.com/GpQjTIS4RQcAAAAM/legado-del-fantasma-joaquin-wilde.gif" width="200" alt="Trio3" />
+<img src="https://miro.medium.com/v2/1*69OSwEbMMvxTJDvjJtWx1Q.gif" width="200" alt="Trio3" />
 </p>
 
 # 
