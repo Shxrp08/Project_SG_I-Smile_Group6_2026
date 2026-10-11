@@ -6,9 +6,11 @@
 # 
 
 Group: 6
+
 Members:
 - Hafizh Riziq Hirawan
 - Muhammad Fakhril Miqdad Sajidin
 - ...
+
 Project title: Impact of AI on Students
 Model(s):
