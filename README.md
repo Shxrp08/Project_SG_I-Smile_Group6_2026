@@ -14,6 +14,6 @@ Members:
 
 Project title: Impact of AI on Students
 
-Model(s):
+ML Algorithms:
 - KNN
 - Random Forest
