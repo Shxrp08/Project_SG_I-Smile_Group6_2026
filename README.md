@@ -12,7 +12,7 @@ Members:
 - Muhammad Fakhril Miqdad Sajidin
 - ...
 
-Title: 
+Title: ML Classification Model
 
 Dataset used: Impact of AI on Students
 
