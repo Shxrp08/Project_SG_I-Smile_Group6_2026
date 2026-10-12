@@ -10,7 +10,7 @@ Group: 6
 Members:
 - Hafizh Riziq Hirawan
 - Muhammad Fakhril Miqdad Sajidin
-- ...
+- Ikhsan Nur Alamsah
 
 Title: ML Classification Model
 
