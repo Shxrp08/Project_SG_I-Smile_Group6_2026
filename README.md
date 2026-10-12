@@ -12,7 +12,9 @@ Members:
 - Muhammad Fakhril Miqdad Sajidin
 - ...
 
-Project title: Impact of AI on Students
+Title: 
+
+Dataset used: Impact of AI on Students
 
 ML Algorithms:
 - KNN
