@@ -12,10 +12,11 @@ Members:
 - Muhammad Fakhril Miqdad Sajidin
 - Ikhsan Nur Alamsah
 
-Title: ML Classification Model
+Title: ML Regression Model
 
 Dataset used: Impact of AI on Students
 
 ML Algorithms:
-- KNN
+- KNN: Regression
 - Random Forest
+- Linear Regression
